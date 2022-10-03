@@ -9,7 +9,9 @@ But now I'm here, in this world of technology that I'm passionate about.
 <br/>
 <ul>
   <li>  🌍  I'm based in Brasília, Brazil </li> 
-  <li>  ✉️  You can contact me at <a href= 'mailto:marxmyers@icloud.com'>marxmyers@icloud.com</a></li>
+  <li>  ✉️  You can contact me at 
+  Email: <a href= 'mailto:marxmyers@icloud.com'>marxmyers@icloud.com</a>
+  Phone Number: +55 (61) 982810457</li>
   <li> 🧠  I'm learning Phyton.</li>
   <li> 🤝  I'm open to collaborating on Front-end and Back-end Developer </li>
 </ul>
