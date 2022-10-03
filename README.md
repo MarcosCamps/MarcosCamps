@@ -1,5 +1,5 @@
 <h1>Hi 👋 My name is Marcos Campos</h1>
-============<em> Dev Full Stack Student at Trybe </em> ============ 
+============<em> Dev Full Stack </em> ============ 
 <br/>
 <br/>
 <p>
