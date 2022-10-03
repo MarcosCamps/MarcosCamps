@@ -10,7 +10,7 @@ But now I'm here, in this world of technology that I'm passionate about.
 <ul>
   <li>  🌍  I'm based in Brasília, Brazil </li> 
   <li>  ✉️  You can contact me at <a href= 'mailto:marxmyers@icloud.com'>marxmyers@icloud.com</a></li>
-  <li> 🧠  I'm learning Docker and MySQL.</li>
+  <li> 🧠  I'm learning Phyton.</li>
   <li> 🤝  I'm open to collaborating on Front-end Developer </li>
   <li> ⚡  I love the art area, I can draw very well and dance. </li>
 </ul>
